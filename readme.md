@@ -2,10 +2,10 @@
 
 ## I'm a recent Computer Science Graduate!
 
-- 🔭 I’m currently working on a .NET Projects!
+- 🔭 I’m currently working on to become a full stack developer
 - 🌱 Learning everything 🤣
 - 👯 I’m looking for a job where i will be able to contribute with my skill
-- 🥅 2020 Goals: Is to become a Full stack developer
+
 - ⚡ Fun fact: I love to play games
 
 ### Connect with me:
@@ -30,8 +30,7 @@
 <code><img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 <code><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <br />
 <br />
 
