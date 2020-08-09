@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on to become a full stack developer
 - 🌱 Learning everything 🤣
 - 👯 I’m looking for a job where i will be able to contribute with my skill
-- ⚡ Fun fact: I love to play games
+- ⚡ Fun fact: In my free time I like to play video games 
 
 ### Connect with me:
 
