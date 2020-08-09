@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on to become a full stack developer
 - 🌱 Learning everything 🤣
 - 👯 I’m looking for a job where i will be able to contribute with my skill
-
 - ⚡ Fun fact: I love to play games
 
 ### Connect with me:
@@ -18,7 +17,8 @@
 ### Languages and Tools I've Worked with:
 
 <code> <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
-<code> <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/ifratmitul/Phpt/master/net.png?token=AKAQQOV6M35D6YFCJULB4D27F5OWW" /></code>
+<code> <img align="left" alt=".NET Core" width="26px" src="https://raw.githubusercontent.com/ifratmitul/Phpt/master/net.png?token=AKAQQOQLSSGXEJAFV4PBNOC7F5QKU" /></code>
+<code> <img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/ifratmitul/Phpt/master/vs.png?token=AKAQQOWAAR3B2IDTT2CP6VS7F5QOA" /></code>
 <code><img align="left" alt="HTML5" width="26px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img align="left" alt="CSS3" width="26px" 
@@ -40,7 +40,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <code><img align="left" alt="GitHub" width="26px"
  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 <code><img align="left" height="20" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/></code>
+<code><img align="left" height="20" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
+<code><img align="left" height="20" 
+src="https://raw.githubusercontent.com/ifratmitul/Phpt/master/django-icon-0.jpg?token=AKAQQOTSO4A4VEB7RAUNX6S7F5QAE"/></code>
 <br />
 <br />
 
