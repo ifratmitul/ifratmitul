@@ -44,7 +44,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <code><img align="left" alt = "firebase" width = "26px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
 <code><img align="left" alt = "firebase" width = "26px" 
-src="https://raw.githubusercontent.com/ifratmitul/Phpt/master/django-icon-0.jpg?token=AKAQQOTSO4A4VEB7RAUNX6S7F5QAE"/></code>
+src="https://raw.githubusercontent.com/ifratmitul/Phpt/blob/2b02fee2f9ee6e494f4b35da4d921cc5dd01e546/django-icon-0.jpg"/></code>
 <br />
 <br />
 
