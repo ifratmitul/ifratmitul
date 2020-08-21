@@ -1,13 +1,13 @@
 ### Hi there, I'm Ifrat 👋
 
-## I'm a recent Computer Science Graduate!
+## I'm a recent Computer Science Graduate from North South University.
 
-- 🔭 I’m currently working on to become a full stack developer
+- 🔭 Currently working on to become a full stack developer
 - 🌱 Learning everything 🤣
-- ⚡  Love working with .NET & MERN Stack
+- :blue_heart: Love working with .NET & MERN Stack
 - 👯 I’m looking for a job where i will be able to contribute with my skill
--   Fun fact: In my free time I like to play video games 
-|:blue_heart: `:blue_heart:`|
+- ⚡  Fun fact: In my free time I like to play video games 
+
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -41,12 +41,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/></code>
 <code><img align="left" alt = "github" width = "26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /></code>
-<code><img align="left" alt = "firebase" width = "26px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
-<code><img align="left" alt = "Django" width = "26px" 
-src="https://github.com/ifratmitul/Pics/raw/master/django-icon-0.jpg"/></code>
-<br />
-<br />
 
 [website]: https://ifratmitul.netlify.app/
 [linkedin]: https://www.linkedin.com/in/iifrat-mitul/
