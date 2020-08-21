@@ -4,9 +4,10 @@
 
 - 🔭 I’m currently working on to become a full stack developer
 - 🌱 Learning everything 🤣
+- ⚡  Love working with .NET & MERN Stack
 - 👯 I’m looking for a job where i will be able to contribute with my skill
-- ⚡ Fun fact: In my free time I like to play video games 
-
+-   Fun fact: In my free time I like to play video games 
+|:blue_heart: `:blue_heart:`|
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -18,7 +19,6 @@
 
 <code> <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/ifratmitul/Pics/raw/master/vs.png" /></code>
 <code> <img align="left" alt=".netcore" width="26px" src="https://github.com/ifratmitul/Pics/raw/master/net.png" /></code>
-<code> <img align="left" alt="Angular" width="26px" src="https://github.com/ifratmitul/Pics/raw/master/Angular.png" /></code>
 <code><img align="left" alt="React" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
 <code><img align="left" alt="Node.js" width="26px" 
