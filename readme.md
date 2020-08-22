@@ -6,7 +6,7 @@
 - 🌱 Learning everything 🤣
 - :blue_heart: Love working with .NET & MERN Stack
 - 👯 I’m looking for a job where i will be able to contribute with my skill
-- ⚡  Fun fact: In my free time I like to play video games 
+- ⚡  Hobby: In my free time I like to play video games 
 
 ### Connect with me:
 
@@ -41,6 +41,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/></code>
 <code><img align="left" alt = "github" width = "26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /></code>
-
 [website]: https://ifratmitul.netlify.app/
 [linkedin]: https://www.linkedin.com/in/iifrat-mitul/
