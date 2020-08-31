@@ -5,7 +5,7 @@
 - 🔭 Currently working on to become a full stack developer
 - 🌱 Learning everything 🤣
 - :blue_heart: Love working with .NET & MERN Stack
-- 👯 I’m looking for a job where i will be able to contribute with my skill
+- 👯 I’m looking for a job where i will be able to learn and contribute with my skills.
 - ⚡  Hobby: In my free time I like to play video games 
 
 ### Connect with me:
