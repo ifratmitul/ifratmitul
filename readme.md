@@ -1,6 +1,6 @@
 ### Hi there, I'm Ifrat 👋
 
-## I'm a recent Computer Science Graduate from North South University.
+## A recent Computer Science Graduate from North South University.
 
 - 🔭 Currently working on to become a full stack developer
 - 🌱 Learning Angular & Sass
