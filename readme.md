@@ -20,7 +20,7 @@
 <code> <img align="left" alt="Visual Studio" width="26px" src="https://github.com/ifratmitul/Pics/raw/master/vs.png" /></code>
 <code> <img align="left" alt=".netcore" width="26px" src="https://github.com/ifratmitul/Pics/raw/master/net.png" /></code>
 <code><img align="left" alt="Angular" width="26px" 
-src="https://raw.githubusercontent.com/ifratmitul/Pics/master/Angular.png?token=AKAQQOSKYDPEFOJBZJOM4V27X6CLM" /></code>
+src="https://github.com/ifratmitul/Pics/blob/master/Angular.png" /></code>
 <code><img align="left" alt="React" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
 <code><img align="left" alt="Node.js" width="26px" 
