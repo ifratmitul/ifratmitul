@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on to become a full stack developer
 - 🌱 Learning .NET
-- :blue_heart: Love working in web development. Proficient with Angular, Reactjs, SCSS
+- :blue_heart: Love working in web development. Proficient in Angular, Reactjs, SCSS
 - 👯 I’m looking for a job where i will be able to learn and contribute with my skills.
 - ⚡  Hobby: In my free time I like to play video games 
 
