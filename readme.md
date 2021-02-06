@@ -3,9 +3,9 @@
 ## A recent Computer Science Graduate from North South University.
 
 - 🔭 Currently working on to become a full stack developer
-- 🌱 Learning .NET
+- 🌱 Learning .NET 
 - :blue_heart: Love working in web development. Proficient in Angular, Reactjs, SCSS
-- 👯 I’m looking for a job where i will be able to learn and contribute with my skills.
+- 👯 I’m looking for a opportunity where i will be able to learn and contribute with my skills.
 
 
 ### Connect with me:
