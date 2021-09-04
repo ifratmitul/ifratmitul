@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on to become a full stack developer
 - 🌱 Learning .NET 
-- :blue_heart: Love working in web development. Proficient with Angular, Reactjs, SCSS
+- :blue_heart: Love developing pixel perfect responsive web app. Proficient with Angular, React.js
 
 
 ### Connect with me:
@@ -18,5 +18,4 @@
 
 
 
-[website]: https://ifratmitul.netlify.app/
 [linkedin]: https://www.linkedin.com/in/iifrat-mitul/
