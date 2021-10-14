@@ -1,10 +1,11 @@
 ### Hi there, I'm Ifrat 👋
+### Software Engineer at Square Health Limited
 
-## CS graduate, Front-end developer who :blue_heart: Angular
+## Love :heart: working with Angular, React & .NET
 
 - 🔭 Currently working on to become a full stack developer
-- 🌱 Learning .NET 
-- :blue_heart: Love developing pixel perfect responsive web app. Proficient with Angular, React.js
+- 🌱 Learning advance .NET 
+- :blue_heart: Love developing pixel perfect responsive web app. Proficient with Angular, React.js & .NET
 
 
 ### Connect with me:
