@@ -1,11 +1,12 @@
 ### Hi there, I'm Ifrat 👋
 ### Software Engineer at Square Health Limited
 
-## Love :heart: working with Angular, React & .NET
+## Love :heart: working with `Angular`, `React`, `Next.js` & `.NET`
 
 - 🔭 Currently working on to become a full stack developer
 - 🌱 Learning .NET 
-- :blue_heart: Love developing pixel perfect responsive web app. Proficient with Angular, React.js & .NET
+- 📫 You can reach me at **ifrat.ikhtear@gmail.com**
+- :blue_heart: Love developing pixel perfect responsive web app. Proficient with `Angular`, `React.js`,  `Next.js` & .`NET`
 
 
 ### Connect with me:
@@ -16,6 +17,11 @@
 
 [linkedin]: https://www.linkedin.com/in/iifrat-mitul/
 
+## 🏆 GitHub Trophies
+
+<a href="https://github.com/ifratmitul"><img src="https://github-profile-trophy.vercel.app/?username=ifratmitul&column=7" alt="ifratmitul" /></a>
+
+<br/>
 
 <br/>
 
