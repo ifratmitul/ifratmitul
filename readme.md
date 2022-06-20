@@ -17,12 +17,6 @@
 
 [linkedin]: https://www.linkedin.com/in/iifrat-mitul/
 
-## 🏆 GitHub Trophies
-
-<a href="https://github.com/ifratmitul"><img src="https://github-profile-trophy.vercel.app/?username=ifratmitul&column=7" alt="ifratmitul" /></a>
-
-<br/>
-
 <br/>
 
 ## 🗂️ Highlight Projects
