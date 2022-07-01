@@ -1,5 +1,5 @@
 ### Hi there, I'm Ifrat 👋
-### Software Engineer at Square Health Limited
+### Associate Software Engineer at Brain Station 23
 
 ## Love :heart: working with `Angular`, `React`, `Next.js` & `.NET`
 
