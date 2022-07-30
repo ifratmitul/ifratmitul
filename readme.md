@@ -6,7 +6,7 @@
 - 🔭 Currently working on to become a full stack developer
 - 🌱 Learning .NET 
 - 📫 You can reach me at **ifrat.ikhtear@gmail.com**
-- :blue_heart: Love developing pixel perfect responsive web app. Proficient with `Angular`, `React.js`,  `Next.js` & .`NET`
+- :blue_heart: Love developing pixel perfect responsive web app. Proficient with `Angular`, `.NET`,  `Next.js` & `React.js`
 
 
 ### Connect with me:
