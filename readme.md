@@ -1,12 +1,11 @@
 ### Hi there, I'm Ifrat 👋
 ### Associate Software Engineer at Brain Station 23
 
-## Love :heart: working with `Angular`, `.NET`, `Next.js` & `React.js`
+## Love :heart: working with `Angular`,`Next.js`, & `React.js`
 
-- 🔭 Currently working on to become a full stack developer
-- 🌱 Learning .NET 
+- 🌱 Always want to keep learning. 
 - 📫 You can reach me at **ifrat.ikhtear@gmail.com**
-- :blue_heart: Love developing pixel perfect responsive web app. Proficient with `Angular`, `.NET`,  `Next.js` & `React.js`
+- :blue_heart: Love developing pixel perfect responsive web app. Proficient with `Angular`,`Next.js` & `React.js`
 
 
 ### Connect with me:
