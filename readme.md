@@ -1,5 +1,5 @@
 ### Hi there, I'm Ifrat 👋
-### Associate Software Engineer at Brain Station 23
+### Software Engineer at Kaz Software
 
 ## Love :heart: working with `Angular`,`Next.js`, & `React.js`
 
