@@ -1,7 +1,10 @@
 ### Hi there, I'm Ifrat 👋
-### Software Engineer at Kaz Software
+### Software Engineer with 5 years of experience.
+### AI Researcher, Current Research topic involves Deep learning and Explainable AI
+### Ex Software Engineer at Kaz Software
 
 ## Love :heart: working with `Angular`,`Next.js`, & `React.js`
+## Programming Language: `JavaScript`, `Python` & `Java`
 
 - 🌱 Always want to keep learning. 
 - 📫 You can reach me at **ifrat.ikhtear@gmail.com**
