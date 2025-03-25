@@ -1,29 +1,71 @@
-### Hi there, I'm Ifrat 👋
-### Software Engineer with 5 years of experience.
-### AI Researcher, Current Research topic involves Deep learning and Explainable AI
-## Ex Software Engineer at Kaz Software Limited, Brain Station 23 PLC and Square Health Limited
+# 👋 Hi, I'm Ifrat
 
-## Love :heart: working with `Angular`,`Next.js`, `React.js`, `Keras` & `Tensorflow`
-## Programming Language: `JavaScript`, `Python` & `Java`
+## 🚀 Software Engineer  | AI Researcher  
+Currently a **Graduate Student** at the **University of South Dakota**, researching **Explainability and Robustness of AI Models**.  
+Previously worked as a **Software Engineer** at **Kaz Software Limited, Brain Station 23 PLC, and Square Health Limited**.
 
-- 🌱 Always want to keep learning. 
-- 📫 You can reach me at **ifrat.ikhtear@gmail.com**
-- :blue_heart: Love developing pixel perfect responsive web app. Proficient with `Angular`,`Next.js` & `React.js`
+### 💡 Interests  
+- **Deep Learning**, **Explainable AI (XAI)**, **Adversarial Robustness**  
+- **Web Development**, **Full-Stack Engineering**  
+- **Building scalable, robust, and efficient AI & software solutions**  
 
+### 💻 Tech Stack  
+🚀 **AI & Machine Learning**: `Keras`, `TensorFlow`, `PyTorch`  
+🌐 **Frontend**: `Angular`, `React.js`, `Next.js`  
+⚙️ **Backend**: `Node.js`, `Express.js`, `Spring Boot`  
+💾 **Databases**: `MongoDB`, `MySQL`, `PostgreSQL`  
+🛠️ **Programming Languages**: `Python`, `JavaScript`, `Java`  
 
-### Connect with me:
+---
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 🔥 What I'm Working On  
+- **Research on XAI & AI Model Robustness**  
+- **Building interpretable deep learning models**  
+- **Developing AI-powered applications**  
 
-<br />
+---
 
-[linkedin]: https://www.linkedin.com/in/iifrat-mitul/
+### 📫 Get in Touch  
+📧 Email: **ifrat.ikhtear@gmail.com**  
+💼 LinkedIn: [Ifrat Ikhtear Uddin](https://www.linkedin.com/in/iifrat-mitul/)  
 
-<br/>
+---
 
-## I mostly work with:
+### 🛠️ Tools & Technologies  
 
 <p>
-<a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> &nbsp;
- <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="next.js" width="40" height="40"/> </a> &nbsp; <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp; <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://angular.io" target="_blank">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+  </a> &nbsp;
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  </a> &nbsp;
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a> &nbsp;
+  <a href="https://redux.js.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  </a> &nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="40" height="40"/>
+  </a>&nbsp;
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a> &nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>&nbsp;
+
+
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+
 </p>
