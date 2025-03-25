@@ -1,9 +1,9 @@
 ### Hi there, I'm Ifrat 👋
 ### Software Engineer with 5 years of experience.
 ### AI Researcher, Current Research topic involves Deep learning and Explainable AI
-### Ex Software Engineer at Kaz Software
+## Ex Software Engineer at Kaz Software Limited, Brain Station 23 PLC and Square Health Limited
 
-## Love :heart: working with `Angular`,`Next.js`, & `React.js`
+## Love :heart: working with `Angular`,`Next.js`, `React.js`, `Keras` & `Tensorflow`
 ## Programming Language: `JavaScript`, `Python` & `Java`
 
 - 🌱 Always want to keep learning. 
