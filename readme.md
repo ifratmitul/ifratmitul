@@ -10,17 +10,17 @@ Previously worked as a **Software Engineer** at **Kaz Software Limited, Brain St
 - **Building scalable, robust, and efficient AI & software solutions**  
 
 ### 💻 Tech Stack  
-🚀 **AI & Machine Learning**: `Keras`, `TensorFlow`, `PyTorch`  
+
 🌐 **Frontend**: `Angular`, `React.js`, `Next.js`  
 ⚙️ **Backend**: `Node.js`, `Express.js`, `Spring Boot`  
 💾 **Databases**: `MongoDB`, `MySQL`, `PostgreSQL`  
-🛠️ **Programming Languages**: `Python`, `JavaScript`, `Java`  
-
+🛠️ **Programming Languages**: `JavaScript`, `TypeScript`, `Java`, `Python`  
+🚀 **AI & Machine Learning**: `Keras`, `TensorFlow`, `PyTorch`  
 ---
 
 ### 🔥 What I'm Working On  
-- **Research on XAI & AI Model Robustness**  
-- **Building interpretable deep learning models**  
+- **Research on Explainable Trustworthy Robust AI**  
+- **Building interpretable secure deep learning models**  
 - **Developing AI-powered applications**  
 
 ---
