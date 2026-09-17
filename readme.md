@@ -4,10 +4,13 @@
 Currently a **PhD Student** at the **University of South Dakota**, doing research on **Explainable and Security of AI**.  
 Previously worked as a **Software Engineer** at **Kaz Software Limited, Brain Station 23, and Square Health Limited**.
 
-### 💡 Interests  
-- **Deep Learning**, **Explainable AI (XAI)**, **Adversarial Robustness**  
-- **Web Development**, **Full-Stack Engineering**  
-- **Building scalable, robust, and efficient AI & software solutions**  
+---
+
+### 🔥 What I'm Working On  
+- **Research on Trustworthy AI**  
+- **Building interpretable secure AI models**  
+
+---
 
 ### 💻 Tech Stack  
 
@@ -16,12 +19,6 @@ Previously worked as a **Software Engineer** at **Kaz Software Limited, Brain St
 - **Databases**: `MongoDB`, `MySQL`, `PostgreSQL`  
 - **Programming Languages**:  `Python`,`JavaScript`, `TypeScript`, `Java`
 - **AI & Machine Learning**: `Keras`, `TensorFlow`, `PyTorch`  
----
-
-### 🔥 What I'm Working On  
-- **Research on Trustworthy AI**  
-- **Building interpretable secure AI models**  
-
 ---
 
 ### 📫 Get in Touch  
