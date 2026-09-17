@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ifrat
 
-## 🚀 Software Engineer  | AI Researcher  
-Currently a **Graduate Student** at the **University of South Dakota**, researching **Explainability and Robustness of AI Models**.  
-Previously worked as a **Software Engineer** at **Kaz Software Limited, Brain Station 23 PLC, and Square Health Limited**.
+## 🚀 AI Researcher | Software Engineer  
+Currently a **PhD Student** at the **University of South Dakota**, doing research on **Explainable and Security of AI**.  
+Previously worked as a **Software Engineer** at **Kaz Software Limited, Brain Station 23, and Square Health Limited**.
 
 ### 💡 Interests  
 - **Deep Learning**, **Explainable AI (XAI)**, **Adversarial Robustness**  
@@ -11,17 +11,16 @@ Previously worked as a **Software Engineer** at **Kaz Software Limited, Brain St
 
 ### 💻 Tech Stack  
 
-🌐 **Frontend**: `Angular`, `React.js`, `Next.js`  
-⚙️ **Backend**: `Node.js`, `Express.js`, `Spring Boot`  
-💾 **Databases**: `MongoDB`, `MySQL`, `PostgreSQL`  
-🛠️ **Programming Languages**: `JavaScript`, `TypeScript`, `Java`, `Python`  
-🚀 **AI & Machine Learning**: `Keras`, `TensorFlow`, `PyTorch`  
+- **Frontend**: `Angular`, `React.js`, `Next.js`  
+- **Backend**: `Node.js`, `Express.js`, `Spring Boot`  
+- **Databases**: `MongoDB`, `MySQL`, `PostgreSQL`  
+- **Programming Languages**:  `Python`,`JavaScript`, `TypeScript`, `Java`
+- **AI & Machine Learning**: `Keras`, `TensorFlow`, `PyTorch`  
 ---
 
 ### 🔥 What I'm Working On  
-- **Research on Explainable Trustworthy Robust AI**  
-- **Building interpretable secure deep learning models**  
-- **Developing AI-powered applications**  
+- **Research on Trustworthy AI**  
+- **Building interpretable secure AI models**  
 
 ---
 
